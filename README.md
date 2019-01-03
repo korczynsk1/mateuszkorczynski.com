@@ -24,7 +24,8 @@
   -[Tomasz Jakut – Semantyczny blog w HTML5](https://tutorials.comandeer.pl/html5-blog.html)
 - CSS
   - [SCSS/Sass](https://sass-lang.com/)
-  - [styled-components](https://www.styled-components.com/) \* [Bulma](https://bulma.io/)
+  - [styled-components](https://www.styled-components.com/) 
+  - [Bulma](https://bulma.io/)
 - [Storybook](https://github.com/storybooks/storybook)
 - RWD
   - [CSS Grid](http://cssgridgarden.com/)
@@ -56,7 +57,7 @@
   - [Redux](https://redux.js.org/)
 - [GraphQL](https://graphql.org/learn/)
 - Server Side Language  
-   \* [Node.js + Express](https://expressjs.com/)
+   - [Node.js + Express](https://expressjs.com/)
 
 ## Angular
 
