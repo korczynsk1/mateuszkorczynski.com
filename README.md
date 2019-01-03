@@ -33,7 +33,7 @@
 - [The math of CSS Locks](https://fvsch.com/css-locks/)
 - [Progressive Web Apps](https://developers.google.com/web/progressive-web-apps/)
 
-## Frameworki
+## Frameworks
 
 - [Flutter](https://flutter.io/)
 - [React](https://reactjs.org/)
