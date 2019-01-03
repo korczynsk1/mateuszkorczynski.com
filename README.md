@@ -39,8 +39,8 @@
 - [React](https://reactjs.org/)
 - [Vue.js](https://vuejs.org/)
 - SSR
-  _ [Next.js](https://nextjs.org/)
-  _ [Nuxt.js](https://nuxtjs.org/)
+  - [Next.js](https://nextjs.org/)
+  - [Nuxt.js](https://nuxtjs.org/)
 - JAM Stack
   - [GatsbyJS](https://www.gatsbyjs.org/)
   - [Netlify](https://www.netlify.com/)
