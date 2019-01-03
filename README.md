@@ -5,11 +5,13 @@
 - Webstorm
 - Android Studio
 - Browser – devtools
-  _ [Chrome DevTools](https://developers.google.com/web/tools/chrome-devtools/)
-  _ [GitHub - facebook/react-devtools](https://github.com/facebook/react-devtools) \* [GitHub - vuejs/vue-devtools](https://github.com/vuejs/vue-devtools)
+  - [Chrome DevTools](https://developers.google.com/web/tools/chrome-devtools/)
+  - [GitHub - facebook/react-devtools](https://github.com/facebook/react-devtools) 
+  - [GitHub - vuejs/vue-devtools](https://github.com/vuejs/vue-devtools)
   - [Angury dev tools](https://augury.rangle.io/)
   - [GitHub - zalmoxisus/redux-devtools](https://github.com/zalmoxisus/redux-devtools-extension)
-- Design \* [Figma](https://www.figma.com/)
+- Design 
+  - [Figma](https://www.figma.com/)
   - [After Effects](https://www.figma.com/)
 
 # Front-end
@@ -18,14 +20,15 @@
 - TypeScript
 - [OWASP](https://www.owasp.org/index.php/OWASP_Guide_Project)
 - Design Theory
-- HTML Sematynczy \* [Tomasz Jakut – Semantyczny blog w HTML5](https://tutorials.comandeer.pl/html5-blog.html)
+- HTML semantic 
+  -[Tomasz Jakut – Semantyczny blog w HTML5](https://tutorials.comandeer.pl/html5-blog.html)
 - CSS
-  _ [SCSS/Sass](https://sass-lang.com/)
-  _ [styled-components](https://www.styled-components.com/) \* [Bulma](https://bulma.io/)
+  - [SCSS/Sass](https://sass-lang.com/)
+  - [styled-components](https://www.styled-components.com/) \* [Bulma](https://bulma.io/)
 - [Storybook](https://github.com/storybooks/storybook)
 - RWD
-  _ [CSS Grid](http://cssgridgarden.com/)
-  _ [CSS Flexbox](https://flexboxfroggy.com/)
+  - [CSS Grid](http://cssgridgarden.com/)
+  - [CSS Flexbox](https://flexboxfroggy.com/)
 - [The math of CSS Locks](https://fvsch.com/css-locks/)
 - [Progressive Web Apps](https://developers.google.com/web/progressive-web-apps/)
 
@@ -38,19 +41,19 @@
   _ [Next.js](https://nextjs.org/)
   _ [Nuxt.js](https://nuxtjs.org/)
 - JAM Stack
-  _ [GatsbyJS](https://www.gatsbyjs.org/)
-  _ [Netlify](https://www.netlify.com/)
-  _ [Heroku](https://www.heroku.com/)
-  _ CMS
-  _ [Contentful](https://www.contentful.com/)
-  _ [Strapi](https://strapi.io/)
-  _ Serverless
-  _ [Webtask](http://webtask.io)
+  - [GatsbyJS](https://www.gatsbyjs.org/)
+  - [Netlify](https://www.netlify.com/)
+  - [Heroku](https://www.heroku.com/)
+- CMS
+  - [Contentful](https://www.contentful.com/)
+  - [Strapi](https://strapi.io/)
+- Serverless
+  - [Webtask](http://webtask.io)
 - State Management
-  _ [Nrwl](https://blog.nrwl.io/managing-state-in-angular-applications-22b75ef5625f?gi=567b2de7772)
-  _ [Vuex](https://vuex.vuejs.org/)
-  _ [Mobx](https://github.com/mobxjs/mobx)
-  _ [Redux](https://redux.js.org/)
+  - [Nrwl](https://blog.nrwl.io/managing-state-in-angular-applications-22b75ef5625f?gi=567b2de7772)
+  - [Vuex](https://vuex.vuejs.org/)
+  - [Mobx](https://github.com/mobxjs/mobx)
+  - [Redux](https://redux.js.org/)
 - [GraphQL](https://graphql.org/learn/)
 - Server Side Language  
    \* [Node.js + Express](https://expressjs.com/)
@@ -69,8 +72,8 @@
 ### Tools
 
 - Package manager
-  _ [npm](https://www.npmjs.com/)
-  _ [Yarn](https://yarnpkg.com/lang/en/)
+  - [npm](https://www.npmjs.com/)
+  - [Yarn](https://yarnpkg.com/lang/en/)
 - [npx package runner](https://www.npmjs.com/package/npx)
 - [Webpack](https://webpack.js.org/)
 - [Babel](https://babeljs.io/)
